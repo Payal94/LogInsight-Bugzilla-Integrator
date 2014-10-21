@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.8.0_05-b13 (Oracle Corporation)
+Class-Path: lib/commons-compress-1.2.jar lib/apache-commons.jar lib/bu
+ gzwsc.jar lib/org-apache-commons-codec.jar lib/org-apache-commons-log
+ ging.jar lib/org-apache-xmlrpc.jar lib/org.apache.commons.httpclient.
+ jar lib/ws-commons-util-1.0.2.jar lib/xmlrpc-2.0.1.jar lib/slf4j.jar 
+ lib/logback.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: fileTransfer
+
